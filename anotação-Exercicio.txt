@@ -1,0 +1,20 @@
+Classe video     -> acoesVideo = <<Interface>>
+		+play()
+- titulo		+pause()
+-avaliacao	+like()
+-views
+-curtidas
+-reproducao
+
+
+
+
+Pesso Abstract mae     ->(FILHO)       Gafanhoto
+				-login
+#nome				-totAssistido
+#idade				+viuMaisUm()
+#sexo
+#experiencia
+#ganhaExp()
+
+
